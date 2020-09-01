@@ -1,6 +1,6 @@
 # ProyectoPOO
 Proyecto VehículosKAR 
-Integrantes:
+# Integrantes:
 * Edgar Ponce
 * Gabriel Izurieta
 * Kevin Pérez
